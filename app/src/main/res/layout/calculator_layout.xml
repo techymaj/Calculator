@@ -70,7 +70,7 @@
                 android:text="Clear"
                 android:textAllCaps="true"
                 android:textColor="@color/black"
-                android:textSize="20sp"
+                android:textSize="16sp"
                 android:textStyle="bold" />
 
             <Space
@@ -85,7 +85,7 @@
 
             <Button
                 android:id="@+id/bDivide"
-                android:layout_width="112dp"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_margin="2dp"
                 android:layout_marginTop="12dp"
@@ -114,7 +114,7 @@
 
             <Button
                 android:id="@+id/bEight"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:fontFamily="monospace"
@@ -134,7 +134,7 @@
 
             <Button
                 android:id="@+id/bTimes"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
                 android:fontFamily="monospace"
@@ -185,7 +185,7 @@
 
             <Button
                 android:id="@+id/bMinus"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_margin="2dp"
                 android:fontFamily="monospace"
@@ -233,7 +233,7 @@
 
             <Button
                 android:id="@+id/bPlus"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_margin="2dp"
                 android:fontFamily="monospace"
@@ -276,7 +276,7 @@
 
             <Button
                 android:id="@+id/bEquals"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_margin="2dp"
                 android:fontFamily="monospace"
